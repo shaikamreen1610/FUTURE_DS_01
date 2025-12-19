@@ -81,12 +81,12 @@ The dashboard helps understand how the business is performing across **sales, pr
 ## Dataset Information
 
 * Super Store / E-commerce sales dataset
-* Includes data related to orders, customers,regions.
-* [View Dataset](
+* Includes data related to orders, customers,regions
+* [View Dataset](https://github.com/shaikamreen1610/FUTURE_DS_01/blob/main/superstore.xls)
 
 ---
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 This dashboard helps:
 
@@ -97,15 +97,16 @@ This dashboard helps:
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-*(Add dashboard screenshot here)*
+<img width="634" height="333" alt="SuperStore Sales Dasboard" src="https://github.com/user-attachments/assets/42bf6cb7-a9e1-48fd-b943-05831992a636" />
+
 
 ---
 
-## 👤 About Me
+## About Me
 
-**Zubair**
+**Amreen Shaik**
 Aspiring Data Analyst
 Skills: Power BI | Excel | SQL | Python
 
